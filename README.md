@@ -4,7 +4,7 @@ A bilingual (Arabic / English) **Retrieval-Augmented Generation (RAG)** chatbot 
 
 Built during my practical training at **Al Mamlaka TV** as a training prototype.
 
-> ⚠️ **Note:** All documents in this repository are **mock data** created for training purposes. They do not contain any real internal information from Al Mamlaka TV.
+>  **Note:** All documents in this repository are **mock data** created for training purposes. They do not contain any real internal information from Al Mamlaka TV.
 
 <!-- Add a screenshot of the interface here -->
 <!-- ![Interface](screenshots/interface.png) -->
@@ -100,5 +100,5 @@ User question ──► embed ──► cosine similarity ──► top 6 chunks
 
 ## Author
 
-**Wajd Almadi** — AI student at Jordan University of Science and Technology
+**Wajd Almadi** : AI student at Jordan University of Science and Technology
 [LinkedIn](https://www.linkedin.com/in/wajd-almadi) · [GitHub](https://github.com/wajdalmadi)
